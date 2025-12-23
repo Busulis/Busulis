@@ -28,4 +28,5 @@ Analyzing on-chain data to visualize transaction patterns and wallet behaviors.
  ---
  ## 🧠 Currently Exploring
   - Zero-Knowledge Proofs (ZKPs) and privacy in blockchain
-  - Automated trading strategies with backtesting  
+  - Automated trading strategies with backtesting
+  - Decentralized Identity (DID) systems  
