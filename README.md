@@ -22,5 +22,5 @@
 ### 🔗 [Crypto Portfolio Tracker](https://github.com/busulis/crypto-tracker)
 A Python tool to track cryptocurrency portfolio performance using live market data.
 
-
 ### 📊 [Blockchain Transaction Analyzer](https://github.com/busulis/tx-analyzer)
+Analyzing on-chain data to visualize transaction patterns and wallet behaviors.
