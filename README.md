@@ -34,3 +34,5 @@ Analyzing on-chain data to visualize transaction patterns and wallet behaviors.
 
 
     ## 📫 Connect with Me
+    **Email:** busulis.dev@proton.me  
+    
