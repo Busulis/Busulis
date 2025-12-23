@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---  
-8 Busulis/Busulis is a ❌ special ❌ repository because you can click the Preview link to take a look at your blog.  
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, Solidity (basics)  
