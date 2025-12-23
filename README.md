@@ -10,3 +10,4 @@
 - **Languages:** Python, JavaScript, Solidity (basics)  
 
 **Frameworks/Libraries:** Flask, Pandas, NumPy, web3.py  
+**Tools:** Git, Docker, Jupyter Notebook, MetaMask, Hardhat  
