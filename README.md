@@ -25,3 +25,5 @@ Analyzing on-chain data to visualize transaction patterns and wallet behaviors.
 
 ### 🤖 [Telegram Crypto Bot](https://github.com/busulis/crypto-bot)
  A simple Telegram bot that provides price alerts and market summaries.
+ ---
+ ## 🧠 Currently Exploring
