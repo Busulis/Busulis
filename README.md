@@ -15,3 +15,4 @@
 
 
 ## 📈 GitHub Stats
+![Busulis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=busulis&show_icons=true&theme=radical)  
