@@ -27,3 +27,4 @@ Analyzing on-chain data to visualize transaction patterns and wallet behaviors.
  A simple Telegram bot that provides price alerts and market summaries.
  ---
  ## 🧠 Currently Exploring
+  - Zero-Knowledge Proofs (ZKPs) and privacy in blockchain  
