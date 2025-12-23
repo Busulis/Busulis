@@ -20,3 +20,4 @@
 
 ## 📂 Featured Projects
 ### 🔗 [Crypto Portfolio Tracker](https://github.com/busulis/crypto-tracker)
+A Python tool to track cryptocurrency portfolio performance using live market data.
