@@ -30,3 +30,7 @@ Analyzing on-chain data to visualize transaction patterns and wallet behaviors.
   - Zero-Knowledge Proofs (ZKPs) and privacy in blockchain
   - Automated trading strategies with backtesting
   - Decentralized Identity (DID) systems  
+  - API development with FastAPI
+
+
+    ## 📫 Connect with Me
