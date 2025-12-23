@@ -24,3 +24,5 @@ A Python tool to track cryptocurrency portfolio performance using live market da
 
 ### 📊 [Blockchain Transaction Analyzer](https://github.com/busulis/tx-analyzer)
 Analyzing on-chain data to visualize transaction patterns and wallet behaviors.
+
+### 🤖 [Telegram Crypto Bot](https://github.com/busulis/crypto-bot)
