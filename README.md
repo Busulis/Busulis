@@ -19,3 +19,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busulis&layout=compact&theme=radical) 
 
 ## 📂 Featured Projects
+### 🔗 [Crypto Portfolio Tracker](https://github.com/busulis/crypto-tracker)
