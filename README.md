@@ -12,3 +12,6 @@
 **Frameworks/Libraries:** Flask, Pandas, NumPy, web3.py  
 **Tools:** Git, Docker, Jupyter Notebook, MetaMask, Hardhat  
 **Blockchain:** Ethereum, Binance Smart Chain, Layer 2 solutions  
+
+
+## 📈 GitHub Stats
